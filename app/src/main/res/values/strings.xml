@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Labels -->
+    <string name="app_name">Trust your soul</string>
+    <string name="edit_message">Enter your name</string>
+    <string name="button_send">Confirm</string>
+    <string name="greeting">Hello, %1$s!</string>
+    <string name="level">Level %1$d</string>
+    <string name="button_true">Trust</string>
+    <string name="button_false">Distrust</string>
+    <string name="success_message">Success :)</string>
+    <string name="fail_message">Fail :(</string>
+    <string name="amount_of_points">Your amount of points is %1$d</string>
+    <string name="amount_of_mistakes">You have %1$d mistakes left</string>
+    <string name="game_over">Game over</string>
+    <string name="new_game">New game</string>
+    <string name="exit">Exit</string>
+    <string name="top_players">Top 10 players</string>
+    <string name="to_main_menu">To main menu</string>
+
+    <!-- Keys -->
+    <string name="user_name_key">trust_your_soul.user</string>
+    <string name="message_key">trust_your_soul.message</string>
+    <string name="level_counter_key">trust_your_soul.level_counter</string>
+    <string name="current_result_key">trust_your_soul.current_result</string>
+    <string name="current_points_key">trust_your_soul.current_points</string>
+    <string name="current_mistakes_key">trust_your_soul.current_mistakes</string>
+</resources>

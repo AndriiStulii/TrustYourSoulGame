@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="edit_message">Введите свое имя</string>
+    <string name="button_send">Подтвердить</string>
+    <string name="greeting">Привет, %1$s!</string>
+    <string name="level">Уровень %1$d</string>
+    <string name="button_true">Верить</string>
+    <string name="button_false">Не верить</string>
+    <string name="success_message">Верно :)</string>
+    <string name="fail_message">Не верно :(</string>
+    <string name="amount_of_points">Твой результат %1$d</string>
+    <string name="amount_of_mistakes">Количество допустимых ошибок %1$d</string>
+    <string name="game_over">Игра окончена</string>
+    <string name="new_game">Новая игра</string>
+    <string name="exit">Выход</string>
+    <string name="top_players">10 лучших игроков</string>
+    <string name="to_main_menu">В главное меню</string>
+</resources>
